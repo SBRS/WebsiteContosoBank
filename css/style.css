@@ -7,6 +7,11 @@
     padding-top: 20px;
 }
 
+#logo {
+    font-family: 'Racing Sans One', cursive;
+    font-size: 40px;
+}
+
 .navbar-collapse {
     font-family: 'Righteous', cursive;
     font-size: 15px;
@@ -38,6 +43,7 @@ html {
 body {
     position: relative;
     min-height: 100%;
+    padding-bottom: 150px;
 }
 
 #chat{
